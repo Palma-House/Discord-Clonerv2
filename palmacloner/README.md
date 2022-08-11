@@ -1,0 +1,7 @@
+# PALMA CLONER
+
+1. ENTER YOUR TOKEN IN .ENV
+2. START THE CLONER 
+3. JOIN THE DISCORD :) 
+4. https://discord.gg/TXbVaQbMff
+
